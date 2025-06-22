@@ -10,6 +10,7 @@ system with the use of Gaussian Mixture Models (GMMs) and Mel-Frequency
 Cepstral Coefficients (MFCCs) to verify users based on their voiceprints.
 
 Motivation:
+
 • Security: Voice biometrics can reduce the cost of serious credential theft
 and replay attacks as it utilizes dynamic speaker-specific features.
 
