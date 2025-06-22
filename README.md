@@ -7,7 +7,7 @@ unique aspects of each user's voice, such as pitch, tone, or spectral properties
 to provide secure and non-invasive authentication. The project will
 demonstrate the construction of an AI powered voice biometric authentication
 system with the use of Gaussian Mixture Models (GMMs) and Mel-Frequency
-Cepstral Coefficients (MFCCs) to verify users based on their voiceprints.
+Cepstral Coefficients (MFCCs 1-20) to verify users based on their voiceprints.
 
 Motivation:
 
